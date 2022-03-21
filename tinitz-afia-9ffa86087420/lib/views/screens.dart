@@ -1,0 +1,10 @@
+export 'package:le_fournisseur/views/auth/create-new-account.dart';
+export 'package:le_fournisseur/views/auth/login-screen.dart';
+export 'package:le_fournisseur/views/auth/forgot-password.dart';
+export 'package:le_fournisseur/views/home.dart';
+export 'settings/profil.dart';
+export 'settings/notification.dart';
+export 'package:le_fournisseur/views/orders/shoppingcart.dart';
+export 'package:le_fournisseur/views/orders/order.dart';
+export 'package:le_fournisseur/views/splashscreen.dart';
+export 'package:le_fournisseur/route.dart';
